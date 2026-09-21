@@ -2,7 +2,7 @@
 
 #### Languages
 
-![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=FFD43B)
@@ -33,3 +33,11 @@
 ![Playwright](https://img.shields.io/badge/-Playwright-000000?style=for-the-badge&logo=playwright&logoColor=2EAD33)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-000000?style=for-the-badge&logo=cloudflare&logoColor=F38020)
+
+#### AI Tools
+
+![Claude](https://img.shields.io/badge/-Claude-000000?style=for-the-badge&logo=anthropic&logoColor=D97757)
+![Google Antigravity](https://img.shields.io/badge/-Google%20Antigravity-000000?style=for-the-badge&logo=google&logoColor=4285F4)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=for-the-badge&logo=cursor&logoColor=FFFFFF)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=74AA9C)
+![Gemini](https://img.shields.io/badge/-Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
