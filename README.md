@@ -2,7 +2,7 @@
 
 #### Languages
 
-![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=FFD43B)
