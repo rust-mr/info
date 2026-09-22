@@ -24,15 +24,14 @@
 #### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/-Git-ffffff?style=for-the-badge&logo=git&logoColor=F05032)
-![Docker](https://img.shields.io/badge/-Docker-ffffff?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Jenkins](https://img.shields.io/badge/-Jenkins-ffffff?style=for-the-badge&logo=jenkins&logoColor=D24939)
-![GitLab](https://img.shields.io/badge/-GitLab-ffffff?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
-![AWS](https://img.shields.io/badge/-AWS-ffffff?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-ffffff?style=for-the-badge&logo=digitalocean&logoColor=0080FF)
 ![Jira](https://img.shields.io/badge/-Jira-ffffff?style=for-the-badge&logo=jira&logoColor=0052CC)
-![Playwright](https://img.shields.io/badge/-Playwright-ffffff?style=for-the-badge&logo=playwright&logoColor=2EAD33)
 ![Figma](https://img.shields.io/badge/-Figma-ffffff?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Docker](https://img.shields.io/badge/-Docker-ffffff?style=for-the-badge&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/-AWS-ffffff?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-ffffff?style=for-the-badge&logo=cloudflare&logoColor=F38020)
+![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-ffffff?style=for-the-badge&logo=digitalocean&logoColor=0080FF)
+![Jenkins](https://img.shields.io/badge/-Jenkins-ffffff?style=for-the-badge&logo=jenkins&logoColor=D24939)
+![Playwright](https://img.shields.io/badge/-Playwright-ffffff?style=for-the-badge&logo=playwright&logoColor=2EAD33)
 
 #### AI Tools
 
